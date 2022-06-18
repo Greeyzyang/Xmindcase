@@ -1,0 +1,35 @@
+[INFO 2022-06-02 12:28:35]Generate Excel successed
+[INFO 2022-06-02 12:28:35]Login successed
+[INFO 2022-06-02 12:28:35]Create testcase path successed 产品测试用例
+[INFO 2022-06-02 12:28:36]add successed 1120202731001000964
+[INFO 2022-06-02 12:28:36]Confirm import successed 1120202731001000964
+[INFO 2022-06-02 12:28:36]New documents submitted this time, eg ['增量用例/294迭代/产品测试用例.xmind']
+[INFO 2022-06-02 12:29:29]Generate Excel successed
+[INFO 2022-06-02 12:29:30]Login successed
+[INFO 2022-06-02 12:29:30]Search testcase  successed ['1212963', '1212962', '1212961', '1212960', '1212959', '1212958', '1212957', '1212956', '1212955', '1212954']
+[INFO 2022-06-02 12:29:30]add successed 1120202731001000964
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212963
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212962
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212960
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212957
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212959
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212961
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212958
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212956
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212954
+[INFO 2022-06-02 12:29:31]Delete testcase  successed 1120202731001212955
+[INFO 2022-06-02 12:29:31]Confirm import successed 1120202731001000964
+[INFO 2022-06-02 12:29:31]New documents modified this time, eg ['增量用例/294迭代/产品测试用例.xmind']
+[INFO 2022-06-02 12:32:46]Login successed
+[INFO 2022-06-02 12:32:46]Search testcase  successed ['1212973', '1212972', '1212971', '1212970', '1212969', '1212968', '1212967', '1212966', '1212965', '1212964']
+[INFO 2022-06-02 12:32:47]Delete testdir  successed 1120202731001000964
+[WARNING 2022-06-02 12:32:47]Delete the entire XMIND file, ef ['增量用例/294迭代/产品测试用例.xmind']
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212973
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212972
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212971
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212970
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212969
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212968
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212966
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212964
+[INFO 2022-06-02 12:32:47]Delete testcase  successed 1120202731001212965
